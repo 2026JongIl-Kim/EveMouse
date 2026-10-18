@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">안구마우스</string>
+    <string name="accessibility_desc">화면 위에 시선 커서를 표시하고, 응시(체류)하거나 눈을 길게 감을 때 화면을 대신 터치해 줍니다. 카메라 영상은 기기 안에서만 처리되며 저장·전송되지 않습니다.</string>
+</resources>
